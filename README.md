@@ -137,7 +137,3 @@ Use GitHub Issues to report bugs or request new features.
 
 This project is released under the **MIT License**. See the [LICENSE](LICENSE) file for full details.
 
----
-
-*© 2025 Your Name*  
-```
