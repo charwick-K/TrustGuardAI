@@ -120,7 +120,7 @@ and a plot saved to `figures/attention_heatmap.png`.
 
 ## 📊 Example Output
 
-![Attention Heatmap](figures/attention_heatmap.png)
+![Attention Heatmap](attention_heatmap.png)
 
 > Higher heatmap values indicate greater feature importance at each time step in the anomaly window.
 
